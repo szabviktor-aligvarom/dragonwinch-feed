@@ -1,0 +1,33 @@
+name: Dragon Winch feed
+
+on:
+  schedule:
+    - cron: "30 5 * * *"   # 05:30 UTC = 7:30 budapesti nyári idő (CEST), 6:30 télen (CET)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Feed generálás (védelmekkel; hiba esetén a régi feed marad)
+        run: python3 scripts/scrape.py
+      - name: Commit és push
+        run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add feed/
+          git diff --cached --quiet && echo "nincs változás" && exit 0
+          git commit -m "feed frissítés $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
