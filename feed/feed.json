@@ -4,7 +4,7 @@
   "currency": "PLN",
   "price_basis": "gyártó webshop (lengyel nyelvű oldal) kiskereskedelmi ára, bruttó = 23% ÁFÁ-val, nettó is külön mezőben",
   "stock_note": "csak van/nincs jelzés (a gyártó nem ad darabszámot)",
-  "generated_at": "2026-10-24T09:39:27Z",
+  "generated_at": "2026-10-25T09:57:01Z",
   "count": 42,
   "count_ok": 37,
   "count_in_stock": 29,
@@ -28,7 +28,7 @@
    "url": "",
    "image_url": "",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "not_on_site",
    "flags": ""
@@ -50,7 +50,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwhi-16000-hd,46,648.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1719397081.478.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -72,7 +72,7 @@
    "url": "",
    "image_url": "",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "not_on_site",
    "flags": ""
@@ -94,7 +94,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwhi-20000-hd,46,649.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1719397317.3719.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -116,7 +116,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwh-12000-hd,50,88.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1536752760.3051.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -138,7 +138,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwh-12000-hd-s,50,390.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1751550718.9529.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -160,7 +160,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwh-15000-hd,50,163.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1536752631.2931.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -182,7 +182,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwh-15000-hd-s,20,666.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1606480828.0274.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -204,7 +204,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwh-4500-hd,50,149.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1744185171.181.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -226,7 +226,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwh-4500-hd-s,50,393.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1744185680.3068.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -248,7 +248,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwh-9000-hd,50,60.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1536752985.1368.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -270,7 +270,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwh-9000-hd-s,50,391.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1468234400.4827.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -292,7 +292,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwi-125-250-hd-230-v,44,138.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1768486646.7142.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -314,7 +314,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwi-300-600-hd-230-v,44,93.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1768486876.0707.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -336,7 +336,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwi-400-800-hd-230-v,44,49.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1768487219.8473.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -358,7 +358,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwi-500-990-hd-230-v,44,122.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1768487369.2883.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -380,7 +380,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-10000-hd,20,695.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729067205.8974.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -402,7 +402,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-10000-hd-s,20,696.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729067156.5058.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
@@ -424,7 +424,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-12000-hd,51,58.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729075713.1412.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -446,7 +446,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-12000-hd-s,51,389.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729067083.3888.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "kotelfelar_+400.00_PLN_szamitott"
@@ -468,7 +468,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-12000-hd-s,51,389.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729067083.3888.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_24V_nincs_az_oldalon(lehetosegek:12V);kotelfelar_+400.00_PLN_szamitott;24V_nem_ellenorizheto_12V_arral_azonos_feltetelezes"
@@ -490,7 +490,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-12000-hd,51,58.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729075713.1412.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_24V_nincs_az_oldalon(lehetosegek:12V);kotelfelar_+200.00_PLN_szamitott;24V_nem_ellenorizheto_12V_arral_azonos_feltetelezes"
@@ -512,7 +512,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-13000-hd,51,86.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729069999.9322.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -534,7 +534,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-13000-hd-s,20,618.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729066441.6696.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "kotelfelar_+400.00_PLN_szamitott"
@@ -556,7 +556,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-13000-hd-s,20,618.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729066441.6696.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_24V_nincs_az_oldalon(lehetosegek:12V);kotelfelar_+400.00_PLN_szamitott;24V_nem_ellenorizheto_12V_arral_azonos_feltetelezes"
@@ -578,7 +578,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-13000-hd,51,86.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1729069999.9322.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_24V_nincs_az_oldalon(lehetosegek:12V);24V_nem_ellenorizheto_12V_arral_azonos_feltetelezes"
@@ -600,7 +600,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-2000-st,51,117.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1742206224.0003.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -622,7 +622,7 @@
    "url": "",
    "image_url": "",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "not_on_site",
    "flags": ""
@@ -644,7 +644,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwm-3000-st,51,772.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1742207572.3662.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -666,7 +666,7 @@
    "url": "",
    "image_url": "",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "not_on_site",
    "flags": ""
@@ -688,7 +688,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwp-3500,45,78.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1558431192.789.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -710,7 +710,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwp-5000,45,151.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1558430830.8079.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -732,7 +732,7 @@
    "url": "",
    "image_url": "",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "not_on_site",
    "flags": ""
@@ -754,7 +754,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwt-16000-hd,20,677.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1792575023.1304.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -776,7 +776,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwt-16000-hdl,48,47.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1720445936.4679.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -798,7 +798,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwt-16000-hdl,48,47.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1720445936.4679.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -820,7 +820,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwt-16000-hd-s,20,679.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1792576018.5027.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_12V_nincs_az_oldalon(lehetosegek:24V)"
@@ -842,7 +842,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwt-18000-hd,48,76.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1792576244.999.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -864,7 +864,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwt-18000-hd-s,20,663.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1792576376.3869.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -886,7 +886,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwt-22000-hd,20,626.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1792668903.6117.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -908,7 +908,7 @@
    "url": "https://www.dragonwinch.com/wyciagarka-dwk-25-pas,20,643.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1612532870.2183.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": ""
@@ -930,7 +930,7 @@
    "url": "https://www.dragonwinch.com/pilot-bezprzewodowy-xl,66,650.html",
    "image_url": "https://www.dragonwinch.com/gfx/big/1589972620.4232.jpg",
    "last_changed": "2026-10-14T13:11:08Z",
-   "checked_at": "2026-10-24T09:39:27Z",
+   "checked_at": "2026-10-25T09:57:01Z",
    "duplicate_sku": false,
    "status": "ok",
    "flags": "feszultseg_nem_jelolt_az_oldalon"
